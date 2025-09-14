@@ -5,9 +5,6 @@ Explainable Multimodal Diagnostic Framework for Anomaly Classification and Predi
 
 ```
 .
-├── raw_data/                      # 원본 진동 데이터
-├── processed_data_raw/           # 전처리된 raw (1D) 데이터 (1번 코드 결과)
-├── processed_data_stft/          # 전처리된 STFT (2D) 데이터 (1번 코드 결과)
 ├── shap_attention_results/       # SHAP 및 Attention Map 결과 (2번 코드 결과)
 ├── final_results/                # 모델별 5회 실험 평가 결과 (multimodal / 1D / 2D)
 ├── figures/                      # 논문 수록용 시각화 결과 (3번 코드 결과)
@@ -15,6 +12,7 @@ Explainable Multimodal Diagnostic Framework for Anomaly Classification and Predi
 ├── 1. data_split_and_preprocess.ipynb  # 데이터 전처리 및 분할 코드
 ├── 2. main_code.ipynb                  # 모델 학습 및 평가 코드
 └── 3. visualize.ipynb                  # 시각화 및 결과 해석 코드
+(현재 데이터는 용량 문제로 첨부하지 않음)
 ```
 
 ## 📄 Code Overview
