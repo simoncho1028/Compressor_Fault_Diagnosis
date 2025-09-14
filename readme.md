@@ -39,4 +39,6 @@ Explainable Multimodal Diagnostic Framework for Anomaly Classification and Predi
 
 
 ## Paper
+연구 진행 완료, SCIE 저널에 2025년 중 1저자로 논문 투고 예정
+(첨부: 논문 초안)
 ![논문 이미지](Paper.png)
