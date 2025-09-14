@@ -36,3 +36,7 @@ Explainable Multimodal Diagnostic Framework for Anomaly Classification and Predi
 ### `3. visualize.ipynb`
 - 대표 시계열 샘플에 대한 모델 해석 시각화
 - 각 class별 raw shap, stft shap, attention map 결과 시각화
+
+
+## Paper
+![논문 이미지](Paper.png)
