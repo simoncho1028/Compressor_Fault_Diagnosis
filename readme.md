@@ -1,5 +1,5 @@
 # Paper
-compressor_fault_diagnosis
+Explainable Multimodal Diagnostic Framework for Anomaly Classification and Predictive Maintenance in Industrial Compressors
 
 ## 📁 Directory Structure
 
